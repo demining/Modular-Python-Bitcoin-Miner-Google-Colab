@@ -61,3 +61,11 @@ Things are mostly straightforward and that file has more comments than code,
 but if you run into trouble or didn't understand some details, feel free to contact
 TheSeven (or [7]) on irc.freenode.net. I'll try to help if I have time.
 Offering some bitcoins might encourage me to not be lazy :)
+
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
